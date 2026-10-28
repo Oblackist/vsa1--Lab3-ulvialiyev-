@@ -1,10 +1,10 @@
 # Laboratoriya İşi № 3 — Növbə (Queue)
 
 **Fənn:** Verilənlərin Strukturu və Alqoritmlər
-**Tələbə:** Name Surname
+**Tələbə:** Ülvi Əliyev
 **Qrup:** KOM25
 **Müəllim:** Şamil Hümbətov
-**Tarix:** October 13, 2026
+**Tarix:** October 28, 2026
 
 ## Məqsəd
 
